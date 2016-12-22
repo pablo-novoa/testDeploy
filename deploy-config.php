@@ -44,7 +44,7 @@ define('BRANCH', 'master');
  *
  * @var string Full path including the trailing slash
  */
-define('TARGET_DIR', './');
+define('TARGET_DIR', '/home/ansina/public_html/testDeploy');
 
 /**
  * Whether to delete the files that are not in the repository but are on the
